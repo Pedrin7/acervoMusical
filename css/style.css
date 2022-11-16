@@ -1,0 +1,19 @@
+.nav-link{
+    color: white;
+
+}
+.logoIndex{
+    padding-right: 10px;
+}
+.loginRegisterButtons{
+    float: right;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.loginForm{
+    padding-left: 10px;
+    padding-right: 10px;
+}
